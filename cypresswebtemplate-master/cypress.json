@@ -1,0 +1,18 @@
+{
+    "url": "http://blackmirror.crowdtest.me.s3-website-us-east-1.amazonaws.com/",
+    "email": "lc.testanalyst@gmail.com",
+    "senha": "123teste",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+      "reporterEnabled": "mochawesome",
+      "mochawesomeReporterOptions": {
+        "reportDir": "cypress/reports/mocha",
+        "quite": true,
+        "overwrite": false,
+        "html": false,
+        "json": true
+      }
+    },
+    "projectId": "pm3i8p"
+  }
+  
