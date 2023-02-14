@@ -1,8 +1,3 @@
-## Créditos
-  
-Este template foi criado em apoio com a colaboradora Base2 Laedy Cecília e Saymon Oliveira.
-Dúvidas estamos à disposição. Bons estudos.
-
 
 ## Arquitetura do Projeto - Cypress
 
